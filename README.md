@@ -1,0 +1,1 @@
+To run the API for visualization: `uvicorn main:app --reload`
